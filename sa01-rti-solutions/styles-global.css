@@ -68,3 +68,6 @@ h1 em {
   border: 1px solid whitesmoke;
   border-radius: 4px;
 }
+.radioBox{
+  align-items: center;
+}
